@@ -23,7 +23,7 @@ const char *ObVaultClient::kms_item[] = {
  *
  * @param kms_info {
         "KMS_HOST": https://10.186.62.12:8200,
-        "TOKEN": "hvs.E7hcsGsurVVXGXS2P5EsEZaO",
+        "TOKEN": "aaaaaaaaaaa",
         "PATH": "test-transit",
         "KEY_NAME": "test_day_1"
     }
